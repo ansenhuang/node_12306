@@ -1,0 +1,74 @@
+{
+  "train_types": [
+    {
+      "name": "GC-高铁/城际",
+      "value": "G,C"
+    },
+    {
+      "name": "D-动车",
+      "value": "D"
+    },
+    {
+      "name": "Z-直达",
+      "value": "Z"
+    },
+    {
+      "name": "T-特快",
+      "value": "T"
+    },
+    {
+      "name": "K-快速",
+      "value": "K"
+    },
+    {
+      "name": "其他",
+      "value": "-"
+    }
+  ],
+  "seat_types": [
+    {
+      "name": "商务座/特等座",
+      "value": "swz"
+    },
+    {
+      "name": "一等座",
+      "value": "zy"
+    },
+    {
+      "name": "二等座",
+      "value": "ze"
+    },
+    {
+      "name": "高级软卧",
+      "value": "gr"
+    },
+    {
+      "name": "软卧/一等卧",
+      "value": "rw"
+    },
+    {
+      "name": "动卧",
+      "value": "srrb"
+    },
+    {
+      "name": "硬卧/二等卧",
+      "value": "yw"
+    },
+    {
+      "name": "软座",
+      "value": "rz"
+    },
+    {
+      "name": "硬座",
+      "value": "yz"
+    },
+    {
+      "name": "无座",
+      "value": "wz"
+    },
+    {
+      "name": "其他",
+      "value": "qt"
+    }
+  ]
+}
