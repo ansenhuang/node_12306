@@ -6,9 +6,9 @@
 
 ## Usage
 
-1. 克隆项目：git clone git@github.com:ansenhuang/node_12306.git
-2. 安装依赖：yarn || npm install
-3. 执行脚本：yart start || npm start
+1. 克隆项目：`git clone git@github.com:ansenhuang/node_12306.git`
+2. 安装依赖：`yarn` || `npm install`
+3. 执行脚本：`yart start` || `npm start`
 4. 输入信息：根据提示输入购票信息
 5. 开始查询：根据输入的信息进行查询，一旦找到满足条件的票将会发送通知
 6. 网上购票：控制台或通知中有查询链接，点击后即可进入12306页面，选择要购买的票（这里动作一定要快，生成订单后才能购买，否则有可能就被别人抢去了）
